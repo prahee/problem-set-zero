@@ -1,0 +1,73 @@
+Shakespeare text generation samples
+Decoder-Only Transformer: Character-Level Language Model
+Model Hyperparameters:
+1. Vocabulary size: 65
+2. Model dimension: 384
+3. Number of heads: 6
+4. Number of layers: 6
+5. Total parameters: 10,672,577
+6. Training iterations: 5000
+7. Final training loss: 1.2157
+8. Final validation loss: 1.4901
+
+
+Sample 1: JULIET
+JULIET:
+For what shall thee done?
+
+QUEEN ELIZABETH:
+Marry, to the head.
+
+JULIET:
+The gratis voice of the city.
+
+Nurse:
+This is this schoolmaster,
+And sleep a repeal to such a tyranny
+To the gods of tear and and to well on him.
+
+QUEEN ELIZABETH:
+Come, to the shepherd's silence and soul
+Where the bless, I am long to much me of the
+enemy to-morrow to the the tater, and more by
+Than this love in the heart of
+Sample 2: ROMEO
+ROMEO:
+Nay, with my resolution of thee for the sea,
+For the greater of a children-traitor city,
+And the days to the crown to ta'en of the duke,
+And before the city of bloody for my trick,
+Not yet your honour, remissings remembrance
+To bear the contrary honesty: yet your child,
+It wrong you will have a charge with mine countenance.
+
+BLUNT:
+Thou hast some country may them are to long
+Discounted all his fo
+Sample 3: HAMLET
+HAMLET:
+If were he shall keep and sadness their king:
+Nay, their king; but thou art more for the crown,
+Which I want to the cause of with their report,
+I am an any hours at their encounterflies
+And to thy deeds, and that he may, and myself
+'In excused at all their dear upting:'
+They bear my death of night of our mother,
+Who is here?'
+
+DUKE OF YORK:
+In heart them down for this reglect again?
+
+DUKE VINCENT
+Sample 4: First Citizen
+First Citizen:
+And ne'er not but here to the field,
+Who are the little common correction,
+That so shame the bourn of men of dreams;
+But that keeps it, more in that miscountry,
+And espection and would be some shortly proport
+Which he shall continue the dangerous hate
+And the news with but royal power, one requite
+To bear the doar, and therefore when my most
+Whether instant rogue to thy death:
+They should the con
